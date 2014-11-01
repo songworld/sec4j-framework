@@ -6,7 +6,6 @@ import org.apache.commons.dbcp.BasicDataSource;
  * 默认数据源工厂
  * 
  * 基于 Apache Commons DBCP 实现
- * ClassName: DefaultDataSourceFactory 
  * @author songge
  * @date 2014-10-28
  * @since 0.1
