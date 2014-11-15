@@ -9,4 +9,6 @@ target/
 .classpath
 .project
 
+.idea/
+
 .git/
